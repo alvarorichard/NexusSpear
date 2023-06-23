@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://i.imgur.com/lfYod7R.png" alt="NexusSpear Screenshot">
+</p>
 
 
 # NexusSpear is a reverse shell tool 
