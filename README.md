@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.imgur.com/lfYod7R.png" alt="NexusSpear Screenshot">
+  <img src="https://i.imgur.com/b96sTVC.png" alt="NexusSpear Screenshot">
 </p>
 
 
