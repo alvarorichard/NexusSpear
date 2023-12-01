@@ -23,9 +23,9 @@ that allows for remote command execution on a target machine.
 1. Compile the server and client programs:
 
    ```shell
-   $ make
-   $ ./server <server_ip> <port>
-   $ ./client
+    make
+    ./server <server_ip> <port>
+    ./client
 2. 
 The client will automatically connect to the server using the specified IP address and port.
 
@@ -33,7 +33,7 @@ Once connected, you can execute commands on the client machine by entering them 
 
 To change the working directory on the client, use the cd command followed by the desired directory path:
 ```shell
-$ cd /path/to/directory
+ cd /path/to/directory
 
 ```
 The server will update and display the current working directory of the client.
